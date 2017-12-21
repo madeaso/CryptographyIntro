@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MenuIO", "MenuIO\MenuIO.vcxproj", "{38749384-2F36-452C-A30B-BB0E6ACA7C33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalEncDec", "FinalEncDec\FinalEncDec.vcxproj", "{516D38BD-5676-404F-875E-E890E5B242E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cyphers", "Cyphers\Cyphers.vcxproj", "{D16FEB97-4806-4DEF-8248-F805CF6A15E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38749384-2F36-452C-A30B-BB0E6ACA7C33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38749384-2F36-452C-A30B-BB0E6ACA7C33}.Debug|Win32.Build.0 = Debug|Win32
+		{38749384-2F36-452C-A30B-BB0E6ACA7C33}.Release|Win32.ActiveCfg = Release|Win32
+		{38749384-2F36-452C-A30B-BB0E6ACA7C33}.Release|Win32.Build.0 = Release|Win32
+		{516D38BD-5676-404F-875E-E890E5B242E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{516D38BD-5676-404F-875E-E890E5B242E9}.Debug|Win32.Build.0 = Debug|Win32
+		{516D38BD-5676-404F-875E-E890E5B242E9}.Release|Win32.ActiveCfg = Release|Win32
+		{516D38BD-5676-404F-875E-E890E5B242E9}.Release|Win32.Build.0 = Release|Win32
+		{D16FEB97-4806-4DEF-8248-F805CF6A15E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D16FEB97-4806-4DEF-8248-F805CF6A15E7}.Debug|Win32.Build.0 = Debug|Win32
+		{D16FEB97-4806-4DEF-8248-F805CF6A15E7}.Release|Win32.ActiveCfg = Release|Win32
+		{D16FEB97-4806-4DEF-8248-F805CF6A15E7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
